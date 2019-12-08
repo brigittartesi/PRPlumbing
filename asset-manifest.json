@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/prplumbing/static/css/main.14a09805.chunk.css",
+    "main.js": "/prplumbing/static/js/main.6cdb10cc.chunk.js",
+    "main.js.map": "/prplumbing/static/js/main.6cdb10cc.chunk.js.map",
+    "runtime-main.js": "/prplumbing/static/js/runtime-main.f92066e8.js",
+    "runtime-main.js.map": "/prplumbing/static/js/runtime-main.f92066e8.js.map",
+    "static/js/2.c7fd4b51.chunk.js": "/prplumbing/static/js/2.c7fd4b51.chunk.js",
+    "static/js/2.c7fd4b51.chunk.js.map": "/prplumbing/static/js/2.c7fd4b51.chunk.js.map",
+    "index.html": "/prplumbing/index.html",
+    "precache-manifest.329ee436409732e532afaf70a0fe3a79.js": "/prplumbing/precache-manifest.329ee436409732e532afaf70a0fe3a79.js",
+    "service-worker.js": "/prplumbing/service-worker.js",
+    "static/css/main.14a09805.chunk.css.map": "/prplumbing/static/css/main.14a09805.chunk.css.map",
+    "static/js/2.c7fd4b51.chunk.js.LICENSE": "/prplumbing/static/js/2.c7fd4b51.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f92066e8.js",
+    "static/js/2.c7fd4b51.chunk.js",
+    "static/css/main.14a09805.chunk.css",
+    "static/js/main.6cdb10cc.chunk.js"
+  ]
+}
