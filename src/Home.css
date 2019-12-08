@@ -1,0 +1,60 @@
+#banner-wrapper {
+    height: 500px;
+    width: 100%;
+}
+
+#banner {
+    background-image: url("https://steamcdn-a.akamaihd.net/steam/apps/992175/header.jpg?t=1575569035");
+    height: 100%;
+    width: 100%;
+}
+
+#banner-content {
+    margin: auto;
+    text-align: center;
+    vertical-align: middle;
+    width: 40%;
+    height: 40%;
+}
+
+a#work {
+    color: white;
+    background-color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+a#work:hover {
+    color: grey;
+}
+
+a {
+    margin: 20px;
+}
+  
+#work {
+    border-style: solid;
+    border-color: white;
+    border-width: 2px;
+  }
+
+#work:hover {
+    background-color: white;
+}
+
+#info-wrapper {
+    text-align: center;
+    vertical-align: middle;
+}
+
+#info {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+  
+#contact-wrapper {
+    display: flex;
+    padding-bottom: 20px;
+}
